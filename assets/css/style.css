@@ -9,7 +9,7 @@
 }
 
 body {
-    background-image: linear-gradient(to bottom, #4A468F, #B699FF);
+    background-image: linear-gradient(to bottom, #2a2672, #4A468F, #876bce);
     width: 100vw;
     height: 100vh;
     display: flex;
@@ -36,13 +36,47 @@ header {
 }
 
 h1 {
-    color: rgb(158, 35, 35);
+    color: rgb(173, 57, 57);
     line-height: 1.25;
     font-size: 2rem;
     font-weight: 700;
-    text-shadow: 1px 1px 1px black;
+    text-shadow: 2px 2px 3px black;
 }
 
 header > div {
     text-align: center;
+}
+
+.picture {
+    margin: 20px 0;
+}
+
+.info {
+    margin-top: 10px;
+}
+
+p {
+    line-height: 1.25;
+}
+
+.name,
+.title {
+    text-shadow: 2px 2px 3px black;
+}
+
+.name {
+    font-size: 1.8rem;
+}
+
+.title  {
+    color: rgb(251, 255, 0);
+}
+
+ul, li {
+    list-style: none;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
 }

@@ -76,7 +76,7 @@ ul {
     margin-top: 20px;
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 10px;
 }
 
 ul, li {

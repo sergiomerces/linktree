@@ -111,6 +111,10 @@ li:hover {
     color: chartreuse;
 }
 
+span > img {
+    width: 1.6rem;
+}
+
 footer {
     margin-top: 20px;
     text-align: center;

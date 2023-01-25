@@ -20,11 +20,10 @@ body {
 main {
     display: flex;
     flex-direction: column;
-    border: 1px solid #ffffff;
     max-width: 720px;
     min-width: 376px;
     max-height: 100vh;
-    padding: 20px;
+    padding: 10px;
     color: #ffffff;
     font: normal 1rem 'Roboto Mono', monospace;
 }
